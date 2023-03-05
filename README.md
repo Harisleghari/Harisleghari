@@ -14,11 +14,11 @@
     <tbody>
       <tr>
        
-        <td style="border: none !important;">
+       <!-- <td style="border: none !important;">
            <div align="center" width="100%">
            <a href="https://drive.google.com/file/d/1v1Vzs5Ty-p79QXJ2SSJgo4BE0ZFSTrGq/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
            </div>
-        </td>
+        </td> -->
        
          <td style="border: none !important;">
            <div align="center" width="100%">
@@ -88,10 +88,8 @@
   </details>
 
  ## &#x1f4c8; GitHub Stats
-<!-- <p align=center>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harisleghari&show_icons=true&locale=en&layout=compact" alt="harisleghari" /></p>
+<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harisleghari&show_icons=true&locale=en&layout=compact" alt="harisleghari" /></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harisleghari)  
 
