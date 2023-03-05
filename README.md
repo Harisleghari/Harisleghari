@@ -39,7 +39,7 @@
   </table>
 <hr/>
 
-## :computer: Technologies - MERN stack & Python/Django
+## :computer: Technologies - MERN Stack
 
 <details>
   <summary><h3>Frontend</h3></summary> 
@@ -87,38 +87,8 @@
  
   </details>
 
-<!-- ## &#x1f4c8; GitHub Stats
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
-</p>
-
-📊 &nbsp;**This week I spent my time on** </br>
- 
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td style="border: none !important;">
-        <div>
-           <a href=https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg target="_blank">
-            <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
-            </a>
-        </div>
-        </td>
-        <td style="border: none !important;">
-        <div >
-         <a href="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" target="_blank">
-            <img src="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
-         </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-*Click for zoom in* 🔎 -->
-
-
+ ## &#x1f4c8; GitHub Stats
+<!-- <p align=center>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harisleghari&show_icons=true&locale=en&layout=compact" alt="harisleghari" /></p>
@@ -130,10 +100,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=harisleghari)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harisleghari&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harisleghari)  
-
-![GitHub metrics](https://metrics.lecoq.io/harisleghari)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harisleghari)  
 
